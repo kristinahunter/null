@@ -1,5 +1,5 @@
 variable "pet_words" {
-  default     = 11
+  default     = 10
   description = "Number of words per pet"
 }
 variable "pets_count" {
